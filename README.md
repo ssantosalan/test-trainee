@@ -1,8 +1,10 @@
-# test-trainee
+## Tecnologias usadas:
 
-API Rest usando Springboot
+- API Rest usando framework Spring boot
+- Linguagem Java
+- Postman
 
-## Requisições feitas no Post-man
+## Requisições feitas no Postman:
 
 <Strong>Criação de usuário:</Strong> 
 
