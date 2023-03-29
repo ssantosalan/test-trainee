@@ -3,7 +3,11 @@
 - API Rest usando framework Spring boot
 - Linguagem Java
 - Postman
+<<<<<<< HEAD
 - O FUTURO É SHOW
+=======
+- Teste
+>>>>>>> 00e0b0c16d8cfc91097e3da5fd5b99d44aaebaa1
 
 ## Requisições feitas no Postman:
 
