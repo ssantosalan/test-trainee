@@ -3,7 +3,6 @@
 - API Rest usando framework Spring boot
 - Linguagem Java
 - Postman
-- O FUTURO É SHOW
 
 ## Requisições feitas no Postman:
 
