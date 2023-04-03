@@ -3,6 +3,7 @@
 - API Rest usando framework Spring boot
 - Linguagem Java
 - Postman
+- Aquático
 
 ## Requisições feitas no Postman:
 
